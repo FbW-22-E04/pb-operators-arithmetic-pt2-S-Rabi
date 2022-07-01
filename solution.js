@@ -2,6 +2,8 @@ const snackServings = 11;
 const guests = 7;
 console.log(snackServings + guests);
 console.log(snackServings - guests);
+console.log(guests - snackServings);
+
 console.log(guests * snackServings);
 console.log(snackServings / guests);
 const drinks = 10;
